@@ -15,7 +15,7 @@ The project is currently in design phase so that mainly architecture related doc
 + Space Systems Czech
 + University of West Bohemia
 
-##Acknowledgments
+## Acknowledgments
 + European Space Operations Centre
 + SatNogs
 + LibreSpace
