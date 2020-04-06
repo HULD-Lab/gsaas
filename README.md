@@ -1,5 +1,5 @@
-# Ground Segment as a Service
-The main repository for Ground Segment as a Service. New Mission Control System focused (MCS) on nanosatellites together with reference design for a Ground Station (GS).
+# Orbitcon 
+The main repository for ORBITCON. New Mission Control System focused (MCS) on nanosatellites together with reference design for a Ground Station (GS).
 The system will provide modern UI, easy setup for supported missions, rich-functionality, alerting, support of multi-spacecraft missions, API for automation, and much more. Stay tuned.
 
 ### Basic building blocks:
